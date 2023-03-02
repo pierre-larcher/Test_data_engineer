@@ -2,4 +2,4 @@
 
 Ce projet résume la demande d'une entreprise pour passer un entretien de data engineer.
 
-Temps demande: 3 jours.
+Temps demandé: 3 jours.
